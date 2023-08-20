@@ -1,1 +1,1 @@
-https://mythicalsystems.tech
+https://mythicalsystems.me
