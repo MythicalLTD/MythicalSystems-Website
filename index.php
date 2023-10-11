@@ -390,12 +390,12 @@ window.__h82AlnkH6D91__("WyJwdWItOTYxNzE3NzQzMzA4OTQ3NyIsW251bGwsbnVsbCxudWxsLCJ
                     <div class="text-slate-100 font-bold tracking-widest uppercase mb-4">Legal</div>
                     <nav class="flex flex-col gap-4">
                         <div>
-                            <a href="terms.html"
+                            <a href="terms.php"
                                 class="text-slate-400 hover:text-sky-500 active:text-sky-600 transition duration-100">Terms
                                 of Service</a>
                         </div>
                         <div>
-                            <a href="privacy.html"
+                            <a href="privacy.php"
                                 class="text-slate-400 hover:text-sky-500 active:text-sky-600 transition duration-100">Privacy
                                 Policy</a>
                         </div>

@@ -30,10 +30,6 @@
             background-color: #010718;
         }
 
-        .container {
-            max-width: 800px;
-        }
-
         h1 {
             color: #953aa1;
             margin-top: 30px;
