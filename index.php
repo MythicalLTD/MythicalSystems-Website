@@ -162,7 +162,7 @@ window.__h82AlnkH6D91__("WyJwdWItOTYxNzE3NzQzMzA4OTQ3NyIsW251bGwsbnVsbCxudWxsLCJ
                         <a class="w-600 fs-6 nav-link text-white" href="https://github.com/sponsors/NaysKutzu"> <i class="bi bi-currency-exchange"></i> Sponsor</a>
                     </li>
                     <li class="px-2 nav-item">
-                        <a class="w-600 fs-6 nav-link text-white" href="https://discord.gg/P65Ehaez8u"> <i
+                        <a class="w-600 fs-6 nav-link text-white" href="https://discord.gg/3FWyugpznc"> <i
                                 class="bi bi-discord"></i> Discord</a>
                     </li>
                     <li class="px-2 nav-item">
