@@ -15,6 +15,8 @@
         content="Welcome to the enchanting realm where magic begins! Since our inception in 2021, we have garnered the trust of over 10,000 users and continue to captivate their imaginations.">
     <meta property="og:type" content="website">
     <meta name="twitter:title" content="MythicalSystems">
+     <meta name="keywords"
+        content="mythicalsystems, mythicaldash, mythicalclient, mythicalbilling, mythicalsystems ltd, mythicalsystems info , mythicalsystems projects, mythicalsystems github, pterodactyl, stopabuse, nayskutuz, cassian gherman, nayskutzuftw, mythicaldoggo, mythicalsystems website, mythicalsystems info, mythicalsystems.me, oldmythicalsystems" />
     <meta name="theme-color" content="#953aa1">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
