@@ -74,25 +74,25 @@
 
 <body>
     <div class="container">
-        <h1>MythicalSystems - Terms of Service</h1>
-        <p>Please read these terms and conditions carefully before using our services.</p>
+    <h1>MythicalSystems - Terms of Service</h1>
+    
+    <p>Effective Date: 12.9.2023</p>
+    
+    <p>Please read these terms and conditions carefully before using our services.</p>
 
-        <h2>Introduction</h2>
-        <p>Welcome to MythicalSystems. These terms and conditions govern your use of our services. By using our
-            services,
-            you agree to be bound by these terms. If you do not agree with any part of these terms, please refrain from
-            using our services.</p>
+    <h2>1. Introduction</h2>
+    <p>Welcome to MythicalSystems. These terms and conditions govern your use of our services. By using our
+        services, you agree to be bound by these terms. If you do not agree with any part of these terms, please
+        refrain from using our services.</p>
 
-        <h2>Acceptable Use</h2>
-        <p>By using our services, you agree not to use our services for any illegal or unauthorized purpose. You also
-            agree not to violate any laws, regulations, or third-party rights.</p>
+    <h2>2. Acceptable Use</h2>
+    <p>By using our services, you agree not to use them for any illegal or unauthorized purpose. You also agree
+        not to violate any laws, regulations, or third-party rights.</p>
 
-        <h2>Legal Agreements:</h2>
-        <p>When we refer to "MythicalSystems" or use pronouns such as "we", "us" or "our", we mean MythicalSystems LTD. When
-            we refer to "User", we are talking about you and we will also use words like "you" and "your" to refer to
-            you. By registering/purchasing services or any activity on our site, you should agree to the MythicalSystems
-            Terms and Conditions We reserve the rights to terminate any of your services without notice if they breach
-            any of our Terms And Conditions.</p>
+    <h2>3. Legal Agreements</h2>
+    <p>When we refer to "MythicalSystems," we mean MythicalSystems LTD. By registering or purchasing services on
+        our site, you agree to the MythicalSystems Terms and Conditions. We reserve the right to terminate any
+        services that breach our Terms and Conditions without notice.</p>
 
         <h2>Accounts:</h2>
         <p>The minimum age to create an account or any activity that requires your personal data is 13 years old! If you
@@ -144,7 +144,102 @@
 
         <h2>Governing Law</h2>
         <p>These terms shall be governed by and construed in accordance with the laws of austira, without regard
-            to its conflict of law provisions. MythicalSystems is registred as a LTD Limited company and you can find more information about that over <a href="https://find-and-update.company-information.service.gov.uk/company/15124191" class="text-link">here</a>.</p>
+            to its conflict of law provisions. MythicalSystems is registred as a LTD Limited company and you can find
+            more information about that over <a
+                href="https://find-and-update.company-information.service.gov.uk/company/15124191"
+                class="text-link">here</a>.</p>
+        <h2>User Data and Privacy</h2>
+        <p>At MythicalSystems, we take your privacy seriously. When you use our services, we may collect certain
+            information for the purpose of providing and improving our offerings. This may include, but is not limited
+            to, personal data such as your name, email address, and billing information. Rest assured that we are
+            committed to safeguarding your information.</p>
+
+        <p><strong>Data Storage:</strong> All user data is securely stored on MythicalSystems servers. We employ
+            industry-standard security measures to protect your data from unauthorized access, disclosure, alteration,
+            and destruction. Your data is stored in a controlled environment with restricted access to ensure its
+            confidentiality.</p>
+
+        <p><strong>Data Access:</strong> Access to user data is restricted to authorized personnel within the
+            MythicalSystems team who require it for the sole purpose of providing and improving our services. We do not
+            share your data with third parties unless required by law.</p>
+
+        <p><strong>Data Encryption:</strong> Your data is treated with the utmost care. We use end-to-end encryption to
+            secure the transmission and storage of sensitive information. This ensures that your data remains
+            confidential and unreadable by unauthorized parties throughout its lifecycle.</p>
+
+        <p><strong>Data Integrity:</strong> We strive to maintain the accuracy and integrity of your data. If you
+            believe that any information we hold about you is incorrect or incomplete, please contact us promptly to
+            update or correct it.</p>
+
+        <p><strong>Data Retention:</strong> We retain user data for as long as necessary to fulfill the purposes
+            outlined in this Terms of Service or as required by applicable laws. If you wish to have your data deleted,
+            please contact us, and we will promptly address your request, subject to legal obligations.</p>
+
+        <p><strong>Third-Party Services:</strong> In some cases, we may use third-party services to enhance our
+            offerings. These services are carefully vetted for security and privacy compliance. However, please review
+            the privacy policies of such third-party services for additional information on their data handling
+            practices.</p>
+
+        <p>By using our services, you acknowledge and consent to the collection, storage, and processing of your data as
+            outlined in this Privacy section. For any concerns or inquiries regarding your data, please reach out to us
+            at <a href="mailto:privacy@mythicalsystems.com" class="text-link">privacy@mythicalsystems.com</a>.</p>
+        <h2>Confidentiality and Prohibition of Unauthorized Access</h2>
+        <p><strong>Confidentiality:</strong> MythicalSystems values the privacy and confidentiality of our users'
+            information. All details regarding user accounts, services, and associated data are considered confidential
+            and protected under applicable laws.</p>
+
+        <p><strong>Prohibition of Unauthorized Access:</strong> Users are strictly prohibited from attempting to access,
+            inquire about, or request information pertaining to other users' accounts, services, or any associated data
+            without proper authorization. Unauthorized access includes, but is not limited to, attempting to obtain
+            information through hacking, social engineering, or any other illicit means.</p>
+
+        <p><strong>Authorized and Licensed Personnel:</strong> In legal cases or for specific regulatory purposes,
+            authorized and licensed professionals from the United Kingdom, who are duly recognized and engaged in
+            tax-related activities, may request access to user information. Any such requests must comply with
+            applicable laws and regulations, and MythicalSystems reserves the right to verify the legitimacy of the
+            request before providing access to any information.</p>
+
+        <p><strong>Privacy and Data Protection:</strong> Users acknowledge that the confidentiality of their information
+            is of utmost importance. MythicalSystems will not disclose any user information to unauthorized parties,
+            except as required by law or as part of a legitimate legal process. Users understand that any attempt to
+            breach the privacy of other users or solicit information outside the authorized channels is a violation of
+            this agreement and may result in legal consequences.</p>
+
+        <p><strong>UK Regulatory Compliance:</strong> MythicalSystems operates in accordance with UK laws and
+            regulations. Any access to user information by authorized and licensed personnel for legal or regulatory
+            purposes will be conducted in compliance with UK privacy laws.</p>
+
+        <p>By using our services, you agree to abide by these confidentiality and privacy provisions. Any breach of
+            these terms may result in immediate suspension of services, legal action, and disclosure of relevant
+            information to the appropriate authorities.</p>
+            
+        <h2>Restrictions on Exporting and Sharing User Data</h2>
+        <p><strong>Export Restrictions:</strong> MythicalSystems is committed to safeguarding the privacy and security
+            of user data. As part of this commitment, we strictly prohibit the exportation of user data to any third
+            parties or external entities without explicit consent from the user, unless required by law.</p>
+
+        <p><strong>Non-Disclosure:</strong> MythicalSystems will not share, sell, or disclose user data to any third
+            party for commercial purposes. Your data is treated with the utmost confidentiality, and we do not engage in
+            practices that compromise the privacy and trust of our users.</p>
+
+        <p><strong>Full Notification:</strong> In the event that we are legally compelled to disclose user data,
+            MythicalSystems will make reasonable efforts to notify the affected user(s), unless prohibited by law. We
+            will provide as much information as legally allowed regarding the nature of the request, the data requested,
+            and the legal basis for the disclosure.</p>
+
+        <p><strong>Transparency:</strong> MythicalSystems is transparent about its data handling practices. Users can
+            refer to our Privacy Policy for detailed information on how their data is collected, processed, and stored.
+            By using our services, you acknowledge and consent to these practices.</p>
+
+        <p>It is essential for users to understand and agree that MythicalSystems will not engage in the unauthorized
+            export or sharing of user data. Any requests for data export or sharing will be handled in accordance with
+            applicable laws, and users will be duly informed in cases where disclosure is legally required.</p>
+
+        <p>If you have any questions or concerns regarding the export and sharing of user data, please contact us at <a
+                href="mailto:privacy@mythicalsystems.com" class="text-link">privacy@mythicalsystems.com</a>.</p>
+
+        <p>If you have concerns or questions about the confidentiality of your information, please contact us at <a
+                href="mailto:legal@mythicalsystems.com" class="text-link">legal@mythicalsystems.com</a>.</p>
 
         <h2>Contact Us</h2>
         <p>If you have any questions or concerns regarding these terms, please contact us at
