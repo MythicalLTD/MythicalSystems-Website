@@ -1,1 +1,1 @@
-https://mythicalsystems.me
+https://mythicalsystems.xyz

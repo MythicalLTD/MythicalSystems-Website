@@ -76,7 +76,7 @@
     <div class="container">
     <h1>MythicalSystems - Terms of Service</h1>
     
-    <p>Effective Date: 12.9.2023</p>
+    <p>Effective Date: 10.05.2024</p>
     
     <p>Please read these terms and conditions carefully before using our services.</p>
 
@@ -240,7 +240,8 @@
 
         <p>If you have concerns or questions about the confidentiality of your information, please contact us at <a
                 href="mailto:legal@mythicalsystems.com" class="text-link">legal@mythicalsystems.com</a>.</p>
-
+		<p>
+		We partner with Tebex Limited (www.tebex.io), who are the official merchant of digital content produced by us. If you wish to purchase licenses to use digital content we produce, you must do so through Tebex as our licensed reseller and merchant of record. In order to make any such purchase from Tebex, you must agree to their terms, available at https://checkout.tebex.io/terms. If you have any queries about a purchase made through Tebex, including but not limited to refund requests, technical issues or billing enquiries, you should contact Tebex support at https://www.tebex.io/contact/checkout in the first instance.</p>
         <h2>Contact Us</h2>
         <p>If you have any questions or concerns regarding these terms, please contact us at
             <a href="mailto:contact@mythicalsystems.com" class="text-link">contact@mythicalsystems.com</a>.
