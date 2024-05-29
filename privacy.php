@@ -9,21 +9,11 @@
     <link rel="icon" type="image/png" sizes="420x420" href="https://avatars.githubusercontent.com/u/117385445">
     <meta name="description" content="Please read our privacy policy carefully before using our services.">
     <meta name="theme-color" content="#953aa1">
-     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;600;800&display=swap" rel="stylesheet">
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6NPWT520BE"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'G-6NPWT520BE');
-    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -53,9 +43,11 @@
             color: #953aa1;
             text-decoration: underline;
         }
+
         li {
             color: #a19d9d;
         }
+
         .footer {
             margin-top: 50px;
             padding: 20px 0;
@@ -124,16 +116,12 @@
 
         <h2>Contact Us</h2>
         <p>If you have any questions or concerns regarding this privacy policy, please contact us at
-            <a href="mailto:privacy@mythicalsystems.com" class="text-link">privacy@mythicalsystems.com</a>.
+            <a href="mailto:privacy@mythicalsystems.xyz" class="text-link">privacy@mythicalsystems.xyz</a>.
         </p>
     </div>
     <script src="./assets/js/particles.js"></script>
     <script src="./assets/js/app.js"></script>
-    <script src="./assets/js/MythicalGuard.js"></script>
-    <script type="module">
-        import hotwiredTurbo from 'https://cdn.skypack.dev/@hotwired/turbo';
-    </script>
-    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script src="./assets/js/overlay-widget.js"></script>
     <script>
         kofiWidgetOverlay.draw('nayskutzu', {
             'type': 'floating-chat',

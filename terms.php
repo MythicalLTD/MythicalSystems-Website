@@ -9,21 +9,11 @@
     <meta name="description" content="Please read our terms of service carefully before using our services.">
     <meta name="theme-color" content="#953aa1">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;600;800&display=swap" rel="stylesheet">
-    <!-- Google tag (gtag.js) -->
     <link rel="icon" type="image/png" sizes="420x420" href="https://avatars.githubusercontent.com/u/117385445">
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6NPWT520BE"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'G-6NPWT520BE');
-    </script>
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -182,7 +172,7 @@
 
         <p>By using our services, you acknowledge and consent to the collection, storage, and processing of your data as
             outlined in this Privacy section. For any concerns or inquiries regarding your data, please reach out to us
-            at <a href="mailto:privacy@mythicalsystems.com" class="text-link">privacy@mythicalsystems.com</a>.</p>
+            at <a href="mailto:privacy@mythicalsystems.xyz" class="text-link">privacy@mythicalsystems.xyz</a>.</p>
         <h2>Confidentiality and Prohibition of Unauthorized Access</h2>
         <p><strong>Confidentiality:</strong> MythicalSystems values the privacy and confidentiality of our users'
             information. All details regarding user accounts, services, and associated data are considered confidential
@@ -236,24 +226,19 @@
             applicable laws, and users will be duly informed in cases where disclosure is legally required.</p>
 
         <p>If you have any questions or concerns regarding the export and sharing of user data, please contact us at <a
-                href="mailto:privacy@mythicalsystems.com" class="text-link">privacy@mythicalsystems.com</a>.</p>
+                href="mailto:privacy@mythicalsystems.xyz" class="text-link">privacy@mythicalsystems.xyz</a>.</p>
 
         <p>If you have concerns or questions about the confidentiality of your information, please contact us at <a
-                href="mailto:legal@mythicalsystems.com" class="text-link">legal@mythicalsystems.com</a>.</p>
+                href="mailto:legal@mythicalsystems.xyz" class="text-link">legal@mythicalsystems.xyz</a>.</p>
 		<p>
-		We partner with Tebex Limited (www.tebex.io), who are the official merchant of digital content produced by us. If you wish to purchase licenses to use digital content we produce, you must do so through Tebex as our licensed reseller and merchant of record. In order to make any such purchase from Tebex, you must agree to their terms, available at https://checkout.tebex.io/terms. If you have any queries about a purchase made through Tebex, including but not limited to refund requests, technical issues or billing enquiries, you should contact Tebex support at https://www.tebex.io/contact/checkout in the first instance.</p>
         <h2>Contact Us</h2>
         <p>If you have any questions or concerns regarding these terms, please contact us at
-            <a href="mailto:contact@mythicalsystems.com" class="text-link">contact@mythicalsystems.com</a>.
+            <a href="mailto:contact@mythicalsystems.xyz" class="text-link">contact@mythicalsystems.xyz</a>.
         </p>
     </div>
     <script src="./assets/js/particles.js"></script>
     <script src="./assets/js/app.js"></script>
-    <script src="./assets/js/MythicalGuard.js"></script>
-    <script type="module">
-        import hotwiredTurbo from 'https://cdn.skypack.dev/@hotwired/turbo';
-    </script>
-    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script src="./assets/js/overlay-widget.js"></script>
     <script>
         kofiWidgetOverlay.draw('nayskutzu', {
             'type': 'floating-chat',
